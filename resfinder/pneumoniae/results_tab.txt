@@ -1,0 +1,32 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(3)-IIa	99.77	861/861	100.0	1..861	No definition line	6849846..6850706	Aminoglycoside resistance	X51534
+rmtC	100.00	846/846	100.0	1..846	No definition line	7195815..7196660	Aminoglycoside resistance	AB194779
+aph(6)-Id	100.00	837/837	100.0	1..837	No definition line	6861138..6861974	Aminoglycoside resistance Alternate name; aph(6)-Id	M28829
+aadA2b	99.87	780/780	100.0	1..780	No definition line	3651013..3651792	Warning: gene is missing from Notes file. Please inform curator.	D43625
+aac(6')-Ib	100.00	606/606	100.0	1..606	No definition line	6891474..6892079	Aminoglycoside resistance	M21682
+aac(6')-Ib-cr	100.00	600/600	100.0	1..600	No definition line	6846843..6847442	Fluoroquinolone and aminoglycoside resistance	DQ303918
+aac(6')-Ib3	100.00	555/555	100.0	1..555	No definition line	7190898..7191452	Warning: gene is missing from Notes file. Please inform curator.	X60321
+blaCMY-6	100.00	1146/1146	100.0	1..1146	No definition line	7147918..7149063	Beta-lactam resistance	AJ011293
+blaCTX-M-15	100.00	876/876	100.0	1..876	No definition line	6855860..6856735	Beta-lactam resistance Alternate name; UOE-1	AY044436
+blaTEM-1B	100.00	861/861	100.0	1..861	No definition line	6859557..6860417	Beta-lactam resistance Alternate name; RblaTEM-1	AY458016
+blaSHV-182	99.88	861/861	100.0	1..861	No definition line	3966281..3967141	Beta-lactam resistance	KP050489
+blaSHV-185	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	KM233164
+blaSHV-70	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	DQ013287
+blaSHV-69	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	DQ174308
+blaSHV-31	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	AY277255
+blaSHV-25	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	AF208796
+blaSHV-13	99.65	861/861	100.0	1..861	No definition line	6845043..6845903	Beta-lactam resistance	AF164577
+blaOXA-1	100.00	831/831	100.0	1..831	No definition line	6847573..6848403	Beta-lactam resistance	HQ170510
+blaNDM-1	100.00	813/813	100.0	1..813	No definition line	7197906..7198718	Beta-lactam resistance	FN396876
+fosA	99.27	412/420	98.09523809523809	1..412	No definition line	2021275..2021686	Fosfomycin resistance	ACWO01000079
+mph(A)	100.00	906/906	100.0	1..906	No definition line	6939777..6940682	Macrolide resistance	D16251
+catB3	100.00	442/633	69.826224328594	1..442	No definition line	6848541..6848982	Phenicol resistance	AJ009818
+catB3	100.00	442/633	69.826224328594	1..442	No definition line	6848541..6848982	Phenicol resistance	U13880
+oqxB	100.00	3153/3153	100.0	1..3153	No definition line	5524214..5527366	Quinolone resistance	EU370913
+oqxA	100.00	1176/1176	100.0	1..1176	No definition line	5523015..5524190	Quinolone resistance	EU370913
+qnrB9	99.69	645/645	100.0	1..645	No definition line	6834830..6835474	Warning: gene is missing from Notes file. Please inform curator.	EF526508
+aac(6')-Ib-cr	100.00	600/600	100.0	1..600	No definition line	6846843..6847442	Fluoroquinolone and aminoglycoside resistance	DQ303918
+sul1	100.00	840/840	100.0	1..840	No definition line	3652297..3653136	Sulphonamide resistance	U12338
+sul2	100.00	816/816	100.0	1..816	No definition line	6862838..6863653	Sulphonamide resistance	AY034138
+tet(A)	100.00	1200/1200	100.0	1..1200	No definition line	6942442..6943641	Tetracycline resistance	AJ517790
+dfrA14	100.00	474/474	100.0	1..474	No definition line	6817013..6817486	Trimethoprim resistance	KF921535

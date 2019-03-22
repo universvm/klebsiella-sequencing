@@ -1,0 +1,13 @@
+Beta-lactam
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaOKP-B-2	99.65	861/861	100.0	1..861	No definition line	2526887..2527747	Beta-lactam resistance	AM051151
+
+Fosfomycin
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+fosA	95.00	420/420	100.0	1..420	No definition line	2930559..2930978	Fosfomycin resistance	ACZD01000244
+
+Fluoroquinolone
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+oqxB	95.50	3153/3153	100.0	1..3153	No definition line	5803974..5807126	Quinolone resistance	EU370913
+oqxA	94.13	1176/1176	100.0	1..1176	No definition line	5807150..5808325	Quinolone resistance	EU370913
+
