@@ -11,4 +11,4 @@ for i in range(len(records)):  # Loop through contigs
     if int(ncontig) in NCONTIG_ANALYSED:  # Output only if
         output_ncontigs.append(records[i])
 
-SeqIO.write(output_ncontigs, "NODES_23-31.fasta", "fasta")
+SeqIO.write(output_ncontigs, "NODES_23-30.fasta", "fasta")
