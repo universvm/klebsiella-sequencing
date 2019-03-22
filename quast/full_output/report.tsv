@@ -1,0 +1,48 @@
+Assembly	9Btwo_filtered
+# contigs (>= 0 bp)	128
+# contigs (>= 1000 bp)	46
+# contigs (>= 5000 bp)	39
+# contigs (>= 10000 bp)	38
+# contigs (>= 25000 bp)	36
+# contigs (>= 50000 bp)	28
+Total length (>= 0 bp)	5874982
+Total length (>= 1000 bp)	5844066
+Total length (>= 5000 bp)	5832282
+Total length (>= 10000 bp)	5826052
+Total length (>= 25000 bp)	5783778
+Total length (>= 50000 bp)	5466390
+# contigs	54
+Largest contig	566821
+Total length	5850128
+Reference length	5682322
+GC (%)	56.90
+Reference GC (%)	57.12
+N50	247549
+NG50	272670
+N75	121110
+NG75	153665
+L50	8
+LG50	7
+L75	15
+LG75	14
+# misassemblies	54
+# misassembled contigs	14
+Misassembled contigs length	2572600
+# local misassemblies	134
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	16
+# unaligned contigs	4 + 39 part
+Unaligned length	2818773
+Genome fraction (%)	53.271
+Duplication ratio	1.001
+# N's per 100 kbp	5.20
+# mismatches per 100 kbp	3979.72
+# indels per 100 kbp	44.47
+# genomic features	2823 + 253 part
+Largest alignment	146117
+Total aligned length	3029666
+NA50	1514
+NGA50	2235
+LA50	243
+LGA50	197

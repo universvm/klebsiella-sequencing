@@ -1,0 +1,21 @@
+Genomic features of type "gene" loaded: 5867
+reference chromosomes:
+	NC_016847.1 (total length: 3353 bp, total length without N's: 3353 bp, maximal covered length: 0 bp)
+	NC_016839.1 (total length: 105974 bp, total length without N's: 105974 bp, maximal covered length: 1054 bp)
+	NC_016846.1 (total length: 111195 bp, total length without N's: 111195 bp, maximal covered length: 14719 bp)
+	NC_016838.1 (total length: 122799 bp, total length without N's: 122799 bp, maximal covered length: 0 bp)
+	NC_016845.1 (total length: 5333942 bp, total length without N's: 5333941 bp, maximal covered length: 3011274 bp)
+	NC_016840.1 (total length: 3751 bp, total length without N's: 3751 bp, maximal covered length: 0 bp)
+	NC_016841.1 (total length: 1308 bp, total length without N's: 1308 bp, maximal covered length: 0 bp)
+
+total genome size: 5682322
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+9Btwo_filtered           | 53.271    | 1.001       | 416       | 2823      | 253       | -         | -         |

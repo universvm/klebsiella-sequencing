@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.280*1.03] collected minimizers
+[M::mm_idx_gen::0.315*1.13] sorted minimizers
+[M::main::0.315*1.13] loaded/built the index for 7 target sequence(s)
+[M::mm_mapopt_update::0.328*1.13] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 7
+[M::mm_idx_stat::0.338*1.12] distinct minimizers: 556663 (99.29% are singletons); average occurrences: 1.020; average spacing: 10.003
+[M::worker_pipeline::1.506*1.76] mapped 54 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /var/www/quast/source/quast/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 2 /var/www/quast/data/results/fmfpht0vnb5wolmqd767dyd1mifa8nc1/28_Feb_2019_11_27_41_574298/full_output/quast_corrected_input/Klebsiella_pneumoniae_pneumoniae_HS11286.genome.fasta /var/www/quast/data/results/fmfpht0vnb5wolmqd767dyd1mifa8nc1/28_Feb_2019_11_27_41_574298/full_output/quast_corrected_input/9Btwo_filtered.fasta
+[M::main] Real time: 1.519 sec; CPU: 2.656 sec

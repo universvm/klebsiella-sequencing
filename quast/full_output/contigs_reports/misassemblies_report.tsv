@@ -1,0 +1,21 @@
+Assembly	9Btwo_filtered
+# misassemblies	54
+  # contig misassemblies	53
+    # c. relocations	53
+    # c. translocations	0
+    # c. inversions	0
+  # scaffold misassemblies	1
+    # s. relocations	1
+    # s. translocations	0
+    # s. inversions	0
+# misassembled contigs	14
+Misassembled contigs length	2572600
+# local misassemblies	134
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	16
+# mismatches	120468
+# indels	1346
+    # indels (<= 5 bp)	1255
+    # indels (> 5 bp)	91
+Indels length	3655
